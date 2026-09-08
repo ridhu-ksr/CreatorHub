@@ -1,0 +1,6 @@
+{
+  "name": "CreatorHub",
+  "description": "The AI-powered creator operating system for multi-platform content creation, actionable analytics, intelligent workflow coaching, and monetization tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
